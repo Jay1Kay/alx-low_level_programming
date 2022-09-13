@@ -1,10 +1,9 @@
 #include <unistd.h>
-
 /**
-*  * main - Solution to advanced task alx low level programming
-*
-*    * Return: Always 1
-*/
+ * main - Solution to advanced task alx low level programming
+ *
+ * Return: Always 1
+ */
 int main(void)
 {
 		write(2,
